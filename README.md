@@ -1,16 +1,20 @@
-## Hi there 👋
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=Hello%20I'm%20JiUng&fontSize=60&animation=twinkling" alt="header image">
+</div>
 
+<div align="center">
+            <a href="mailto:liarreez@gmail.com">
+            <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
+          </a>
+          <a href="https://liarreez.tistory.com/">
+            <img src="https://img.shields.io/badge/TISTORY%20BLOG-F26522?style=for-the-badge&logo=tistory&logoColor=white">
+          </a>
+</div>
 <!--
-**liarreez/liarreez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<div align="center">
+        <h2>📊 GitHub Stats</h2>
+        <p align="center">
+          <img src="https://github-readme-stats.vercel.app/api?username=liarreez&show_icons=true&theme=tokyonight" width="90%">
+        </p>
+</div>
 -->
